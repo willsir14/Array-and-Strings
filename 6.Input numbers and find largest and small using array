@@ -3,9 +3,9 @@ int main()
 {
 	int i,avg,n,j,k,a[100],larg,small;
 	printf("How many numbers to be inputed?\t");
-	 printf("Enter the elements one by one \n");
 	scanf("%d",&n);
-	
+	 printf("Enter the elements one by one \n");
+	{
 		for(i=0;i<n;i++)
 		{
 			printf("a[%d]=",i);
